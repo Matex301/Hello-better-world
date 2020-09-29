@@ -1,0 +1,10 @@
+C:\Users\M\source\repos\Hello better world!\Hello better world!\bin\Release\Hello better world!.exe.config
+C:\Users\M\source\repos\Hello better world!\Hello better world!\bin\Release\Hello better world!.exe
+C:\Users\M\source\repos\Hello better world!\Hello better world!\bin\Release\Hello better world!.pdb
+C:\Users\M\source\repos\Hello better world!\Hello better world!\obj\Release\Hello_better_world_.Form1.resources
+C:\Users\M\source\repos\Hello better world!\Hello better world!\obj\Release\Hello_better_world_.Properties.Resources.resources
+C:\Users\M\source\repos\Hello better world!\Hello better world!\obj\Release\Hello better world!.csproj.GenerateResource.Cache
+C:\Users\M\source\repos\Hello better world!\Hello better world!\obj\Release\Hello better world!.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\Hello better world!\Hello better world!\obj\Release\Hello better world!.exe
+C:\Users\M\source\repos\Hello better world!\Hello better world!\obj\Release\Hello better world!.pdb
+C:\Users\M\source\repos\Hello better world!\Hello better world!\obj\Release\Hello better world!.csprojResolveAssemblyReference.cache
